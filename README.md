@@ -3,8 +3,7 @@
 <!--
 **Eduardo-Ozika/Eduardo-Ozika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
-
+Some information:
 - 🌱 I’m currently learning IFTO.
 - 📫 How to reach me: email: eduardoozika.ti@gmail.com | phone:+55 (63) 98137-1158.
 - ⚡ I live in: South America - Brazil - Tocantins - Palmas.
