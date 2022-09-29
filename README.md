@@ -9,8 +9,6 @@ Algumas informações:
 - 📫 informações de contato: email: eduardoozika.ti@gmail.com | Celular:+55 (63) 98137-1158.
 - ⚡ eu moro em: America do Sul - Brasil - Tocantins - Palmas.
 
-
-
 # 📈 Estatísticas  📈
 ![](https://komarev.com/ghpvc/?username=Eduardo-Ozika&color=447ff7&label=Visitor+count)
 
@@ -19,16 +17,12 @@ Algumas informações:
     <img src="https://github-readme-stats.vercel.app/api?username=Eduardo-Ozika&show_icons=true&theme=github_dark&hide_border=true" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eduardo-Ozika&theme=github-dark-blue&locale=pt-br&hide_border=true" />
     <img src="https://activity-graph.herokuapp.com/graph?username=Eduardo-Ozika&theme=react-dark&hide_border=true" />
-</a>
+<p  align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+  <br><br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Ozika&layout=compact&langs_count=3&theme=dark&textcolor=blue"/>
 </p>
 
-
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br><br>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Ozika&layout=compact&langs_count=7&theme=dark&textcolor=blue"/>
-
-</div>
 <div style="display: inline_block"><br>
 <img align="center" alt="Eduardo-Jv" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 <img align="center" alt="Eduardo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
