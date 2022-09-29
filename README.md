@@ -17,7 +17,6 @@ Algumas informações:
   <a href="https://github.com/Eduardo-Ozika">
     <img src="https://github-readme-stats.vercel.app/api?username=Eduardo-Ozika&show_icons=true&theme=github_dark&hide_border=true" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eduardo-Ozika&theme=github-dark-blue&locale=pt-br&hide_border=true" />
-    
     <img src="https://activity-graph.herokuapp.com/graph?username=Eduardo-Ozika&theme=react-dark&hide_border=true" />
 </a>
 </p>
