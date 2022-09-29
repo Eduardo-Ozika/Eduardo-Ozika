@@ -9,6 +9,14 @@ Algumas informações:
 - 📫 informações de contato: email: eduardoozika.ti@gmail.com | Celular:+55 (63) 98137-1158.
 - ⚡ eu moro em: America do Sul - Brasil - Tocantins - Palmas.
 
+<div style="display: inline_block"><br>
+<img align="center" alt="Eduardo-Jv" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+<img align="center" alt="Eduardo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Eduardo-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<img align="center" alt="Eduardo-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+<img align="center" alt="Eduardo-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"">
+</div>
+
 # 📈 Estatísticas  📈
 ![](https://komarev.com/ghpvc/?username=Eduardo-Ozika&color=447ff7&label=Visitor+count)
 
@@ -22,9 +30,3 @@ Algumas informações:
   <br><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Ozika&layout=compact&langs_count=3&theme=dark&textcolor=blue"/>
 </p>
-
-<div style="display: inline_block"><br>
-<img align="center" alt="Eduardo-Jv" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-<img align="center" alt="Eduardo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Eduardo-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-</div>
