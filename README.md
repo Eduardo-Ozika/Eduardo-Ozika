@@ -1,4 +1,5 @@
-### Oi, me chamo Eduardo Ozika 👋
+### Oi, me chamo Eduardo Ozika!
+Bem vindo ao meu perfil GitHub 👋
 
 <!--
 **Eduardo-Ozika/Eduardo-Ozika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,7 +12,7 @@ Algumas informações:
 
 
 # 📈 Estatísticas  📈
-![](https://komarev.com/ghpvc/?username=adityakumar28&color=447ff7&label=Visitor+count)
+![](https://komarev.com/ghpvc/?username=Eduardo-Ozika&color=447ff7&label=Visitor+count)
 
 <p align="center">
   <a href="https://github.com/Eduardo-Ozika">
@@ -24,6 +25,12 @@ Algumas informações:
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
+<br><br>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Ozika&layout=compact&langs_count=7&theme=dark&textcolor=blue"/>
 
+</div>
+<div style="display: inline_block"><br>
+<img align="center" alt="Eduardo-Jv" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+<img align="center" alt="Eduardo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Eduardo-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 </div>
