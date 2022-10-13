@@ -30,5 +30,5 @@ Algumas informações:
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
   
   <a href="https://github.com/Eduardo-Ozika">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Ozika&layout=compact&langs_count=3&theme=dark&textcolor=blue"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Ozika&layout=compact&langs_count=3&theme=dark&locale=pt-br&textcolor=blue"/> 
 </p>
